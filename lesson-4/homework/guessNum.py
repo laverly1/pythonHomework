@@ -16,4 +16,3 @@ while attempts:
     
 if attempts == 0:
     print("You lost")
-#/
