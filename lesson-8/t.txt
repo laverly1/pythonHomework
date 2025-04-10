@@ -1,0 +1,3 @@
+12345|John Doe|1500.75
+15445|Jane Smith|2500
+52332|Mary Johnson|300.25
